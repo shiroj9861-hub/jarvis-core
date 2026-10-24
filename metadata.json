@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS Core",
+  "description": "Autonomous, self-healing, and self-evolving AI agent with live diagnostics, real-time code synthesis sandbox, automatic debugging loops, hot-patch telemetry, and neural state management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
